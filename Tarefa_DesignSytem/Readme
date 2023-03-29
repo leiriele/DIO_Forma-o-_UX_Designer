@@ -1,0 +1,8 @@
+Design System
+
+Uma aplicação mobile - Reciclo uma aplicação para auxiliar o usuario a encontrar pontos de coleta em sua cidade e informações.
+Duas telas: login e confirmação
+
+Login: email e senha;
+
+Confirmação: Usuário deve verificar via e-mail para confirmação do login. (primeiro acesso).
